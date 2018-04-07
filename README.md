@@ -9,14 +9,14 @@ teaching resource. If you'd like to know the solutions to any of the problems,
 please contact me.
 
 ## Organization of Topics
-Homework 1: Time-complexity, Master Theorem, proof techniques, basic modular arithmetic
+[Homework 1](./hw1.pdf): Time-complexity, Master Theorem, proof techniques, basic modular arithmetic
 
-Homework 2: Sorting, divide-and-conquer on one or more arrays
+[Homework 2](): Sorting, divide-and-conquer on one or more arrays
 
-Homework 3: Divide-and-conquer on finite and infinite sequences and graphs
+[Homework 3](): Divide-and-conquer on finite and infinite sequences and graphs
 
-Homework 4: Depth and breadth-first search for shortest paths, paths with constraints, connected components
+[Homework 4](): Depth and breadth-first search for shortest paths, paths with constraints, connected components
 
-Homework 5: Strong connectivity, search with memoization on graphs, Bellman-Ford
+[Homework 5](): Strong connectivity, search with memoization on graphs, Bellman-Ford
 
-Homework 6: Minimum spanning tree, greedy and dynamic programming
+[Homework 6](): Minimum spanning tree, greedy and dynamic programming
