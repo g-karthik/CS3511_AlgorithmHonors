@@ -9,7 +9,7 @@ teaching resource. If you'd like to know the solutions to any of the problems,
 please contact me.
 
 ## Organization of Topics
-Homework 1: Time-complexity, Master Theorem, Proof techniques, basic modular arithmetic
+Homework 1: Time-complexity, Master Theorem, proof techniques, basic modular arithmetic
 
 Homework 2: Sorting, divide-and-conquer on one or more arrays
 
