@@ -19,4 +19,6 @@ please contact me.
 
 [Homework 5](./hw5.pdf): Strong connectivity, search with memoization on graphs, Bellman-Ford
 
-[Homework 6](./hw6.pdf): Minimum spanning tree, greedy and dynamic programming
+[Homework 6](./hw6.pdf): Minimum spanning tree, greedy and dynamic programming on sequences
+
+[Homework 7](./hw7.pdf): Greedy and dynamic programming on graphs, max-flow min-cut theorem, intro to LP-duality
